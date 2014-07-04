@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ianbrandt.pmd</groupId>
-	<artifactId>pmd-eclipse-test</artifactId>
+	<artifactId>eclipse-pmd-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>pmd-eclipse-test</name>
+	<name>eclipse-pmd-test</name>
 
 	<modules>
 		<module>module-a</module>
